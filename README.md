@@ -3,7 +3,7 @@
 Sou desenvolvedor/mangaká/futuro profissional da área de t.i!  
 
 ## Experiência
-- 📌 Desenvolvimento web e projetos pessoais
+- 📌 Aprendendo sobre programação (recém iniciado)
 - 📌 Criação de mangás digitais
 
 ## Conecte-se comigo
